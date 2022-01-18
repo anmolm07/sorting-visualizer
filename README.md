@@ -7,4 +7,3 @@ Selection Sort <br/>
 Insertion Sort <br/>
 Quick Sort <br/>
 Merge Sort <br/>
-I plan to add more complex algorithms into this in future using react framework.
